@@ -32,3 +32,30 @@ The web scraping script collects the following data for each mobile phone:
 - Ratings
 
 [View Web Scraping Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/a48c87aa63037d5f4d015564f5e4af5fa73fbf69/Scraping_flipkart%20mobile%20data.ipynb) | [View Raw Data (CSV)](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/a48c87aa63037d5f4d015564f5e4af5fa73fbf69/flipkart_webscraping.csv)
+
+## CLEANING PROCESS
+The cleaning script processes the raw data to handle missing values, extract relevant information, and standardize the data format. Key cleaning steps include:
+- Handling missing values
+- Extracting RAM and ROM from the description
+- Extracting brand names from product names
+
+[View Cleaning Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/781f95f66c18824fcf5c7035e290a78ce975b463/Cleaning_flipkart%20mobile%20data.ipynb) | [View Cleaned Data (CSV)](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/781f95f66c18824fcf5c7035e290a78ce975b463/flipkart_cleaned.csv)
+
+## EDA PROCESS
+The exploratory data analysis script visualizes the cleaned data to uncover patterns and insights. Visualizations include:
+- Distribution of prices by RAM and ROM
+- Average ratings by brand
+- Distribution of ratings
+
+[View EDA Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/781f95f66c18824fcf5c7035e290a78ce975b463/EDA_%20flipkart%20mobile%20data.ipynb)
+
+## INSIGHTS
+From the EDA, the following insights were derived:
+- **Price Distribution**: Analysis of price variation across different RAM and ROM configurations.
+- **Brand Performance**: Identification of top-performing brands based on average ratings.
+- **Ratings Distribution**: Understanding customer feedback distribution across different brands.      
+
+## CONCLUSION
+This project demonstrates my ability to scrape, clean, and analyze real-world data using Python. The insights derived can be used by potential buyers to make informed decisions and by sellers to understand market trends.
+
+Feel free to explore the Scripts and Data used in this project. If you have any questions or feedback, please reach out!
