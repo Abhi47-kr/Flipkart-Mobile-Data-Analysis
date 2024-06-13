@@ -60,7 +60,7 @@ From the EDA, the following insights were derived:
 - **Ratings Distribution**: Understanding customer feedback distribution across different brands.
 
 ## PROJECT IMPACT
-- *Scraped* data for over *2,000 mobile phones*, including product names, prices, descriptions, and ratings.
+- *Scraped* data for over *240 mobile phones*, including product names, prices, descriptions, and ratings.
 - *Utilized BeautifulSoup* and *Requests* to efficiently gather data, ensuring a comprehensive dataset for analysis.
 - *Processed* raw data to handle missing values,enhancing data quality and usability using Pandas.
 - *Visualized* price distribution, brand performance, and ratings distribution through multiple charts using *Matplotlib*, providing clear and actionable insights.
