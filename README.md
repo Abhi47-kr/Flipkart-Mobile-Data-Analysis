@@ -11,7 +11,8 @@
 5. [Cleaning Process](#cleaning-process)
 6. [EDA Process](#eda-process)
 7. [Insights](#insights)
-8. [Conclusion](#conclusion)
+8. [Project Impact](#project-impact)
+9. [Conclusion](#conclusion)
 
 ## PROJECT OVERVIEW
 This project involves scraping mobile phone data from Flipkart, cleaning the data, and performing Exploratory Data Analysis (EDA) to derive meaningful insights. The entire process showcases my skills in web scraping, data cleaning, and data visualization using Python. 
@@ -56,7 +57,13 @@ The exploratory data analysis script visualizes the cleaned data to uncover patt
 From the EDA, the following insights were derived:
 - **Price Distribution**: Analysis of price variation across different RAM and ROM configurations.
 - **Brand Performance**: Identification of top-performing brands based on average ratings.
-- **Ratings Distribution**: Understanding customer feedback distribution across different brands.      
+- **Ratings Distribution**: Understanding customer feedback distribution across different brands.
+
+## PROJECT IMPACT
+- *Scraped* data for over *2,000 mobile phones*, including product names, prices, descriptions, and ratings.
+- *Utilized BeautifulSoup* and *Requests* to efficiently gather data, ensuring a comprehensive dataset for analysis.
+- *Processed* raw data to handle missing values,enhancing data quality and usability using Pandas.
+- *Visualized* price distribution, brand performance, and ratings distribution through multiple charts using *Matplotlib*, providing clear and actionable insights.
 
 ## CONCLUSION
 This project demonstrates my ability to scrape, clean, and analyze real-world data using Python. The insights derived can be used by potential buyers to make informed decisions and by sellers to understand market trends.
