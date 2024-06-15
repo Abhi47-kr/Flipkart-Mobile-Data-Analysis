@@ -35,7 +35,7 @@ The web scraping script collects the following data for each mobile phone:
 - Description
 - Ratings
 
-[View Web Scraping Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/a48c87aa63037d5f4d015564f5e4af5fa73fbf69/Scraping_flipkart%20mobile%20data.ipynb) | [View Raw Data (CSV)](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/a48c87aa63037d5f4d015564f5e4af5fa73fbf69/flipkart_webscraping.csv)
+[View Web Scraping Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis/blob/7380965d97ce9d6b13f847199b7c7b1f3f3f5045/Scraping_flipkart%20mobile%20data.ipynb) | [View Raw Data (CSV)](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis/blob/7380965d97ce9d6b13f847199b7c7b1f3f3f5045/flipkart_webscraping2.csv)
 
 ## CLEANING PROCESS
 The cleaning script processes the raw data to handle missing values, extract relevant information, and standardize the data format. Key cleaning steps include:
@@ -43,7 +43,7 @@ The cleaning script processes the raw data to handle missing values, extract rel
 - Extracting RAM and ROM from the description
 - Extracting brand names from product names
 
-[View Cleaning Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/781f95f66c18824fcf5c7035e290a78ce975b463/Cleaning_flipkart%20mobile%20data.ipynb) | [View Cleaned Data (CSV)](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/781f95f66c18824fcf5c7035e290a78ce975b463/flipkart_cleaned.csv)
+[View Cleaning Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis/blob/7380965d97ce9d6b13f847199b7c7b1f3f3f5045/Cleaning_flipkart%20mobile%20data.ipynb) | [View Cleaned Data (CSV)](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis/blob/7380965d97ce9d6b13f847199b7c7b1f3f3f5045/flipkart_cleaned.csv)
 
 ## EDA PROCESS
 The exploratory data analysis script visualizes the cleaned data to uncover patterns and insights. Visualizations include:
@@ -51,7 +51,7 @@ The exploratory data analysis script visualizes the cleaned data to uncover patt
 - Average ratings by brand
 - Distribution of ratings
 
-[View EDA Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis-in-Python/blob/781f95f66c18824fcf5c7035e290a78ce975b463/EDA_%20flipkart%20mobile%20data.ipynb)
+[View EDA Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis/blob/7380965d97ce9d6b13f847199b7c7b1f3f3f5045/EDA_%20flipkart%20mobile%20data.ipynb)
 
 ## INSIGHTS
 From the EDA, the following insights were derived:
