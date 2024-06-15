@@ -18,7 +18,7 @@
 This project involves scraping mobile phone data from Flipkart, cleaning the data, and performing Exploratory Data Analysis (EDA) to derive meaningful insights. The entire process showcases my skills in web scraping, data cleaning, and data visualization using Python. 
 
 ## DATA SOURCES
-The data used in this project was scraped from the *[Flipkart](https://www.flipkart.com/search?q=mobiles+under+50000&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_16_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_16_na_na_na&as-pos=1&as-type=HISTORY&suggestionId=mobiles+under+50000%7CMobiles&requestId=ccbc5062-a7ca-479c-88c9-41c2679ddf58)* website, focusing on smart mobile phones with varying price ranges.
+The data used in this project was scraped from the *[Flipkart](https://www.flipkart.com/search?q=smart%20phones&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off)* website, focusing on smart mobile phones with varying price ranges.
 
 ## TOOL USED
 - Python
