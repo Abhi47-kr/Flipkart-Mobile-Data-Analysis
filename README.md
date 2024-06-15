@@ -10,7 +10,7 @@
 4. [Web Scraping Process](#web-scraping-process)
 5. [Cleaning Process](#cleaning-process)
 6. [EDA Process](#eda-process)
-7. [Insights](#insights)
+7. [Insights and Key Findings](#insights-and-key-findings)
 8. [Project Impact](#project-impact)
 9. [Conclusion](#conclusion)
 
@@ -53,11 +53,21 @@ The exploratory data analysis script visualizes the cleaned data to uncover patt
 
 [View EDA Script](https://github.com/Abhi47-kr/Flipkart-Mobile-Data-Analysis/blob/7380965d97ce9d6b13f847199b7c7b1f3f3f5045/EDA_%20flipkart%20mobile%20data.ipynb)
 
-## INSIGHTS
-From the EDA, the following insights were derived:
-- **Price Distribution**: Analysis of price variation across different RAM and ROM configurations.
-- **Brand Performance**: Identification of top-performing brands based on average ratings.
-- **Ratings Distribution**: Understanding customer feedback distribution across different brands.
+## INSIGHTS AND KEY FINDINGS
+- Pricing Trends:
+  - The price distribution revealed a wide range, with a significant number of budget and mid-range mobiles.
+  - Premium brands showed higher price points with distinct features.
+
+- Brand Popularity:
+  - Certain brands dominated the market share, indicating strong brand loyalty and market presence.
+ 
+- Feature Impact:
+  - Features like RAM, storage, and battery capacity showed a positive correlation with price.
+  - Higher-rated mobiles tended to have better specifications, which justified higher prices.
+
+- Customer Insights:
+  - Customer ratings and reviews highlighted the importance of specific features like battery life, camera quality, and performance.
+  - Positive reviews were often associated with higher-priced models, suggesting a perceived value for money.
 
 ## PROJECT IMPACT
 - *Scraped* data for over *250 mobile phones*, including product names, prices, descriptions, and ratings.
